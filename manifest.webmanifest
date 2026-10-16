@@ -1,0 +1,10 @@
+{
+  "name": "VAPT Interview Prep Master Checklist",
+  "short_name": "VAPT Prep",
+  "description": "Responsive VAPT interview preparation checklist with progress tracking.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#101827",
+  "icons": []
+}
